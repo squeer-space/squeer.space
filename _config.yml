@@ -30,8 +30,14 @@ github_username:  squeer-space
 
 # Build settings
 theme: minima
+
+header_pages:
+  - about.md
+  - events.md
+
 plugins:
   - jekyll-feed
+  - jekyll-ical-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

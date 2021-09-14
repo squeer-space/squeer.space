@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  {% ical url: https://owncloud.informatik.hs-mannheim.de/remote.php/dav/public-calendars/AJ4ero5DmtDP3pzK/?export reverse: false only_future: true %}
+  <h2><b>{{ event.summary }}</b></h2>
+    <b>{{ event.start_time | date: '%B %d, %H:%M' }}</b>
+    <p>{{ event.description }}</p>
+  {% endical %}
+
+</article>
