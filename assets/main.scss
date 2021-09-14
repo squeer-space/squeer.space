@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-header {
+  border-top: 0px;
+}
+
+.rainbow-header {
+  min-height: 1em;
+  max-height: 1em;
+  background: linear-gradient(to right, #ff3434 0, #ff3434 17%, #ff8f43 17%, #ff8f43 33%, #ffd634 33%, #ffd634 50%, #5daa2c 50%, #5daa2c 68%, #2c66aa 68%, #2c66aa 85%, #7d2daa 85%, #7d2daa);
+  padding: 0;
+}
