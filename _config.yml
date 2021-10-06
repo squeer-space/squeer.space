@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Independent queer group for students of HS Mannheim.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://squeer.space" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  squeer-space
 
