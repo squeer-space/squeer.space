@@ -26,4 +26,4 @@ Das Restaurant ist einfach per Öffis zu erreichen, ihr könnt von Mannheim Hbf.
 
 [Ludwigstraße 73-75, 67059 Ludwigshafen am Rhein](https://goo.gl/maps/bzdxS1gXnnaibELb7)
 
-Es gibt dort relativ günstige Getränke, Cocktails und auch was gutes zu Essen.
+Es gibt dort relativ günstige Softdrinks, Cocktails und auch was Gutes zu Essen.
