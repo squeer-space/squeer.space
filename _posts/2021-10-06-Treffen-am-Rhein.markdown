@@ -22,7 +22,7 @@ Am 12.10.2021 um 19 Uhr!
 ## Wo?
 
 Wir treffen uns im Schmaus und Braus in der *wunderschönen* Stadt Ludwigshafen.
-Das Restaurant ist einfach per Öffis zu erreichen, ihr könnt von Mannheim Hbf. mit der S-Bahn nach Ludwigshafen Mitte fahren und die letzten paar Meter zu Fuß laufen.
+Das Restaurant ist einfach per Öffis zu erreichen, ihr könnt vom Mannheim Hbf. mit der S-Bahn nach Ludwigshafen Mitte fahren und die letzten paar Meter zu Fuß laufen.
 
 [Ludwigstraße 73-75, 67059 Ludwigshafen am Rhein](https://goo.gl/maps/bzdxS1gXnnaibELb7)
 
