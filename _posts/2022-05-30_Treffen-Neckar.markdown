@@ -17,7 +17,7 @@ Wir freuen uns über jedes altbekannte und neue Gesicht!
 
 ## Wann?
 
-Am 12.10.2021 um 19 Uhr!
+Am 30.05.22 um 19 Uhr!
 
 ## Wo?
 Wir treffen uns auf den Neckarwiesen in Mannheim auf der Höhe des Lidl. Ihr erkennt uns an so schnieken T-Shirts wo Code-On drauf steht.
